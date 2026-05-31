@@ -18,7 +18,7 @@ student(string a,int b,int c){
 int main(){
     student s1("ASHMIT",18,033);
     //s1.name="ASHMIT";
-    //s1.age=18;
+    //s1.age=19;
     //s1.roll_no=033;
     s1.display();
     return 0;
