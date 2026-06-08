@@ -1,2 +1,2 @@
 # AshmitDSA
-Solving DSA problems
+Solving DSA problems for practice
